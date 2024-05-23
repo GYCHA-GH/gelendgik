@@ -1,0 +1,170 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@500;700;800&family=Oswald:wght@300&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Nunito';
+    font-weight: 700; 
+}
+.header{
+    width: 100%;
+    height: 78px; 
+    background-color: #ffffff;
+    display: flex;
+    justify-content: space-between;
+}
+.links{
+    margin-left: 10%;
+    margin-right: auto;
+    width: 1000px;
+    height: 78px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.link{
+    font-size: 36px;
+    text-decoration: none;
+    color: #100090;
+    letter-spacing: 1.8px; 
+}
+.main{
+    background-color: #A8DDFB;
+}
+.title4{
+    margin-top: 10vh;
+    color: #100090; 
+    font-size: 75px;
+    text-align: center;
+}
+.icon1{
+    padding-top: 5vh;
+    width: 275px;
+    height: 300px;
+    border-radius: 20px; 
+    background: linear-gradient(137deg, rgba(255, 255, 255, 0.42) 7.3%, rgba(217, 217, 217, 0.26) 96.07%); 
+    margin-left: 20vh;
+    margin-top: 10vh;
+    text-align: center;
+    float:left;
+}
+.icon3{
+    padding-top: 5vh;
+    width: 275px;
+    height: 300px;
+    border-radius: 20px; 
+    background: linear-gradient(137deg, rgba(255, 255, 255, 0.42) 7.3%, rgba(217, 217, 217, 0.26) 96.07%);
+    margin-right: 20vh;
+    margin-top: 10vh;
+    float:right;
+    text-align: center;
+}
+.icon2{
+    padding-top: 5vh;
+    width: 275px;
+    height: 300px;
+    border-radius: 20px; 
+    background: linear-gradient(137deg, rgba(255, 255, 255, 0.42) 7.3%, rgba(217, 217, 217, 0.26) 96.07%);
+    margin-top: 10vh;
+    margin-left: 10em;
+    text-align: center;
+    float: left;
+}
+.body{
+    background-color: #A8DDFB;
+}
+.user_text1{
+    color: #232330;
+    font-size: 20px;
+}
+.user_text2{
+    color: #232330;
+    font-size: 40px;
+}
+.icon-img{
+    width: 50px;
+    height: 50px;
+}
+.user_name1{
+    color: #100090; 
+    font-size: 25px;
+}
+.star{
+    width: 40px;
+    height: 40px;
+}
+.write1{
+    text-align: center;
+}
+.chapter1{
+    text-align: center;
+}
+.title1{
+    color: #100090; 
+    font-size: 70px;
+    text-align: center;
+}
+.input1{
+    margin-top: 10vh;
+    border: none;
+    font-size: 22px;
+    border-radius: 10px;
+    border-color: rgb(255, 255, 255);
+}
+.input2{
+    border: none;
+    font-size: 22px;
+    margin-left: 5vh;
+    border-radius: 10px;
+    border-color: rgb(255, 255, 255);
+    
+    
+}
+.write2{
+    border: none;
+    text-align: center;
+    padding-top: 5vh;
+}
+.input3{
+    
+    border: none;
+    width: 101vh;
+    height: 25vh;
+    border-radius: 2vh;
+    resize: none; 
+}
+.submit1{
+    color: #100090;
+    margin-left: 28em;
+    margin-top: 4vh;
+    font-size: 4vh;
+    padding-left: 4vh;
+    padding-right: 4vh;
+    padding-top: 1vh;
+    padding-bottom: 1vh;
+    border-radius: 2vh;
+    border: none;
+    
+}
+.header2{
+    width: 100%;
+    height: 78px; 
+    background-color: #ffffff;
+    display: flex;
+    justify-content: space-between;
+}
+.links2{
+    margin-left: 5%;
+    margin-right: auto;
+    width:  100%;
+    height: 78px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.link1{
+    font-size: 20px;
+    text-decoration: none;
+    color: #100090;
+    letter-spacing: 1.8px; 
+    line-height: 0%
+}
